@@ -1,0 +1,22 @@
+#foot-sec{
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../images/footer-bg.jpg");	
+}
+.foot-icon a{
+    padding: 8px 11px;
+    background-color:#8fc04e;
+}
+.foot-icon a:hover{
+    background-color: #759e3f;
+    transition: all 0.5s ease;
+}
+.foot-sub a{
+    background-color: #8fc04e;
+    padding: 0px 20px;
+}
+.foot-sub a:hover{
+    background-color: #759e3f;
+    transition: all 0.5s ease;
+}
+.end-foot p>span{
+    color: #8fc04e;
+}	
